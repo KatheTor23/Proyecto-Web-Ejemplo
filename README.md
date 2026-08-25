@@ -1,12 +1,7 @@
-Este es el repositorio creado para actividad final de curso de github.
+Este es el repositorio creado para la actividad final del curso de GitHub.Para clonar se usa git clone, ls para ver el repositorio y cd para ir a él.
 
-para clonar se usa
-git clone
-ls para ver el repositorio y cd para ir a el. 
-una vez adentro usas code . para que te abra el proyecto en visual
-asi se crea el entorno de desarrollo. 
+Una vez adentro, usas code . para que te abra el proyecto en Visual Studio Code; así se crea el entorno de desarrollo.Se creó una rama en la que se modificó un inicio y se forzó un conflicto con la rama main. Este se solucionó con la práctica.
 
-se creo una rama en la que se modifico un inicio y se forzo un conflicto con la rama main. este se solciono con la practica. 
-las ramas se utilizorn muy bien, y una ves se subioel push este fue aceptaod y unido a la rama main en github. 
+Las ramas se utilizaron muy bien y, una vez que se subió el push, este fue aceptado y unido a la rama main en GitHub.
 
 
